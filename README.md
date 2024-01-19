@@ -1,6 +1,6 @@
 # stark
 
-A new Flutter project.
+My first flutter project inspired from Iron Man a Marvel character.
 
 ## Getting Started
 
